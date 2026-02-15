@@ -1,0 +1,6 @@
+framework module CardTabBar {
+  umbrella header "CardTabBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

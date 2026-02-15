@@ -1,0 +1,36 @@
+PODS:
+  - CardTabBar (1.0.0)
+  - NCMB (3.1.2)
+  - PTCardTabBar (1.0.2)
+  - SOTabBar (1.1.3)
+
+DEPENDENCIES:
+  - CardTabBar
+  - NCMB (from `https://github.com/NIFCLOUD-mbaas/ncmb_ios.git`)
+  - PTCardTabBar
+  - SOTabBar
+
+SPEC REPOS:
+  trunk:
+    - CardTabBar
+    - PTCardTabBar
+    - SOTabBar
+
+EXTERNAL SOURCES:
+  NCMB:
+    :git: https://github.com/NIFCLOUD-mbaas/ncmb_ios.git
+
+CHECKOUT OPTIONS:
+  NCMB:
+    :commit: 644ca4a6b0b1b2115ac9ccb2f9a2d486c7532748
+    :git: https://github.com/NIFCLOUD-mbaas/ncmb_ios.git
+
+SPEC CHECKSUMS:
+  CardTabBar: 14550e1be868b6d54f4ff31745445d6fcc1d452a
+  NCMB: 89c50f041839a8fcc40e798ed0a7e66d344b7943
+  PTCardTabBar: 9f94e31b447629aead75cd21cdaa6ae1f2c8bac6
+  SOTabBar: 27aea95bd6b39d1be3535c867a2cd3b5adc172e6
+
+PODFILE CHECKSUM: f437dc1aa1a9acf6907baa1b95caa60229efd935
+
+COCOAPODS: 1.11.3
