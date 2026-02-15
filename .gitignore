@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Xcode (build artifacts / user settings)
+DerivedData/
+build/
+*.xcuserstate
+*.userdatad
+xcuserdata/
+
+# CocoaPods
+Pods/
+
+# (Optional) Swift Package Manager
+.build/
+.swiftpm/
+
+# (Optional) fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
